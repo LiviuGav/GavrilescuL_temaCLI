@@ -111,7 +111,6 @@ class InteractiveWindow : GameWindow
     protected override void OnKeyDown(KeyboardKeyEventArgs e)
     {
         base.OnKeyDown(e);
-
         // Închidem aplicația la apăsarea tastei Escape
         if (e.Key == Key.Escape)
             this.Close();
