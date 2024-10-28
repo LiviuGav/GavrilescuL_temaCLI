@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GavrilescuL_temaCLI1", "GavrilescuL_temaCLI1\GavrilescuL_temaCLI1.csproj", "{7835697C-C6D6-4776-B7CF-C45DB0783865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGL_conn_ImmediateMode", "OpenGL_conn_ImmediateMode\OpenGL_conn_ImmediateMode.csproj", "{F7E39390-16D0-4636-BCCF-C9D701C8F301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7835697C-C6D6-4776-B7CF-C45DB0783865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7835697C-C6D6-4776-B7CF-C45DB0783865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7835697C-C6D6-4776-B7CF-C45DB0783865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7835697C-C6D6-4776-B7CF-C45DB0783865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E39390-16D0-4636-BCCF-C9D701C8F301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E39390-16D0-4636-BCCF-C9D701C8F301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E39390-16D0-4636-BCCF-C9D701C8F301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E39390-16D0-4636-BCCF-C9D701C8F301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA855CF-3D6E-4611-8AFC-D743B65BC5D8}
+	EndGlobalSection
+EndGlobal
